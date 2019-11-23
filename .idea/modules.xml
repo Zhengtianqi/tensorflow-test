@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/untitled/face.iml" filepath="$PROJECT_DIR$/untitled/face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/face-judgement/face-judgement.iml" filepath="$PROJECT_DIR$/face-judgement/face-judgement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/get-default-graph/get-default-graph.iml" filepath="$PROJECT_DIR$/get-default-graph/get-default-graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow.iml" filepath="$PROJECT_DIR$/tensorflow.iml" />
+    </modules>
+  </component>
+</project>
